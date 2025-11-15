@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://guanboch.github.io/sitemap.xml
